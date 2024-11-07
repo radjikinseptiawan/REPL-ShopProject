@@ -1,0 +1,7 @@
+Beras : 12000 
+Minyak Goreng : 15000 
+Gula Pasir : 10000 
+Mie Instan : 3000 
+Susu Cair : 8000 
+
+Total Harga: Rp48000
